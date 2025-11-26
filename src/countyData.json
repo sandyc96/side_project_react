@@ -1,0 +1,156 @@
+[
+  {
+    "HSN.CD": "A",
+    "HSN_NM": "臺北市",
+    "ORG.NM": "臺北國稅局",
+    "HSN.TAX.JURIS.CD (機構代碼)": "A05",
+    "HSN.GRD": "1"
+  },
+  {
+    "HSN.CD": "M",
+    "HSN_NM": "南投縣",
+    "ORG.NM": "中區國稅局（南投縣）",
+    "HSN.TAX.JURIS.CD (機構代碼)": "B01",
+    "HSN.GRD": "3"
+  },
+  {
+    "HSN.CD": "K",
+    "HSN_NM": "苗栗縣",
+    "ORG.NM": "中區國稅局（苗栗縣）",
+    "HSN.TAX.JURIS.CD (機構代碼)": "B01",
+    "HSN.GRD": "3"
+  },
+  {
+    "HSN.CD": "P",
+    "HSN_NM": "雲林縣",
+    "ORG.NM": "中區國稅局（雲林縣）",
+    "HSN.TAX.JURIS.CD (機構代碼)": "B01",
+    "HSN.GRD": "3"
+  },
+  {
+    "HSN.CD": "N",
+    "HSN_NM": "彰化縣",
+    "ORG.NM": "中區國稅局（彰化縣）",
+    "HSN.TAX.JURIS.CD (機構代碼)": "B01",
+    "HSN.GRD": "3"
+  },
+  {
+    "HSN.CD": "B",
+    "HSN_NM": "臺中市",
+    "ORG.NM": "中區國稅局（臺中市）",
+    "HSN.TAX.JURIS.CD (機構代碼)": "B01",
+    "HSN.GRD": "1"
+  },
+  {
+    "HSN.CD": "T",
+    "HSN_NM": "屏東縣",
+    "ORG.NM": "南區國稅局（屏東縣）",
+    "HSN.TAX.JURIS.CD (機構代碼)": "D01",
+    "HSN.GRD": "3"
+  },
+  {
+    "HSN.CD": "I",
+    "HSN_NM": "嘉義市",
+    "ORG.NM": "南區國稅局（嘉義市）",
+    "HSN.TAX.JURIS.CD (機構代碼)": "D01",
+    "HSN.GRD": "2"
+  },
+  {
+    "HSN.CD": "Q",
+    "HSN_NM": "嘉義縣",
+    "ORG.NM": "南區國稅局（嘉義縣）",
+    "HSN.TAX.JURIS.CD (機構代碼)": "D01",
+    "HSN.GRD": "3"
+  },
+  {
+    "HSN.CD": "V",
+    "HSN_NM": "臺東縣",
+    "ORG.NM": "南區國稅局（臺東縣）",
+    "HSN.TAX.JURIS.CD (機構代碼)": "D01",
+    "HSN.GRD": "3"
+  },
+  {
+    "HSN.CD": "D",
+    "HSN_NM": "臺南市",
+    "ORG.NM": "南區國稅局（臺南市）",
+    "HSN.TAX.JURIS.CD (機構代碼)": "D01",
+    "HSN.GRD": "1"
+  },
+  {
+    "HSN.CD": "X",
+    "HSN_NM": "澎湖縣",
+    "ORG.NM": "南區國稅局（澎湖縣）",
+    "HSN.TAX.JURIS.CD (機構代碼)": "D01",
+    "HSN.GRD": "3"
+  },
+  {
+    "HSN.CD": "E",
+    "HSN_NM": "高雄市",
+    "ORG.NM": "高雄國稅局",
+    "HSN.TAX.JURIS.CD (機構代碼)": "E01",
+    "HSN.GRD": "1"
+  },
+  {
+    "HSN.CD": "G",
+    "HSN_NM": "宜蘭縣",
+    "ORG.NM": "北區國稅局（宜蘭縣）",
+    "HSN.TAX.JURIS.CD (機構代碼)": "H01",
+    "HSN.GRD": "3"
+  },
+  {
+    "HSN.CD": "U",
+    "HSN_NM": "花蓮縣",
+    "ORG.NM": "北區國稅局（花蓮縣）",
+    "HSN.TAX.JURIS.CD (機構代碼)": "H01",
+    "HSN.GRD": "3"
+  },
+  {
+    "HSN.CD": "W",
+    "HSN_NM": "金門縣",
+    "ORG.NM": "北區國稅局（金門縣）",
+    "HSN.TAX.JURIS.CD (機構代碼)": "H01",
+    "HSN.GRD": "3"
+  },
+  {
+    "HSN.CD": "H",
+    "HSN_NM": "桃園市",
+    "ORG.NM": "北區國稅局（桃園市）",
+    "HSN.TAX.JURIS.CD (機構代碼)": "H01",
+    "HSN.GRD": "1"
+  },
+  {
+    "HSN.CD": "C",
+    "HSN_NM": "基隆市",
+    "ORG.NM": "北區國稅局（基隆市）",
+    "HSN.TAX.JURIS.CD (機構代碼)": "H01",
+    "HSN.GRD": "2"
+  },
+  {
+    "HSN.CD": "Z",
+    "HSN_NM": "連江縣",
+    "ORG.NM": "北區國稅局（連江縣）",
+    "HSN.TAX.JURIS.CD (機構代碼)": "H01",
+    "HSN.GRD": "3"
+  },
+  {
+    "HSN.CD": "O",
+    "HSN_NM": "新竹市",
+    "ORG.NM": "北區國稅局（新竹市）",
+    "HSN.TAX.JURIS.CD (機構代碼)": "H01",
+    "HSN.GRD": "2"
+  },
+  {
+    "HSN.CD": "J",
+    "HSN_NM": "新竹縣",
+    "ORG.NM": "北區國稅局（新竹縣）",
+    "HSN.TAX.JURIS.CD (機構代碼)": "H01",
+    "HSN.GRD": "3"
+  },
+  {
+    "HSN.CD": "F",
+    "HSN_NM": "新北市",
+    "ORG.NM": "北區國稅局（新北市）",
+    "HSN.TAX.JURIS.CD (機構代碼)": "H01",
+    "HSN.GRD": "1"
+  }
+]
